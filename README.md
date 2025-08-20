@@ -1,9 +1,9 @@
-#📚 RAG-based Knowledge Assistant
+📚 RAG-based Knowledge Assistant
 
 A Retrieval-Augmented Generation (RAG) powered assistant that combines Large Language Models (LLMs) with a vector database to deliver accurate, context-aware, and domain-specific answers.
 This project demonstrates how to build a production-ready AI system that can retrieve knowledge from documents and augment LLM responses with factual grounding.
 
-#🚀 Features
+🚀 Features
 
 🔍 Contextual Retrieval – Uses embeddings + vector database for semantic search.
 
@@ -15,7 +15,7 @@ This project demonstrates how to build a production-ready AI system that can ret
 
 🌐 Extensible – Easy to plug in other models (OpenAI, Hugging Face, etc.).
 
-#🛠️ Tech Stack
+🛠️ Tech Stack
 
 Python 3.10+
 
